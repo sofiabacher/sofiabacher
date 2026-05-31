@@ -35,10 +35,3 @@ Proyecto personal enfocado en la organización, centralización y análisis de c
 * Profundizando conocimientos en desarrollo de software y bases de datos.
 * Explorando tecnologías relacionadas con ciencia de datos e inteligencia artificial.
 * Desarrollando soluciones a problemas reales para incorporar experiencia práctica.
-
----
-
-### 📫 Contacto
-
-* **LinkedIn:** https://www.linkedin.com/in/sofía-bacher
-* **Email:** bacher.sofiaet36@gmail.com
