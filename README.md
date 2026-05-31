@@ -6,7 +6,7 @@ Actualmente desarrollo proyectos académicos y personales relacionados al desarr
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Tecnologías
 
 * **Backend:** Node.js, Express.js, APIs REST, Arquitectura MVC
 * **Bases de Datos:** MySQL, SQL, Sequelize
