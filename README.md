@@ -37,4 +37,4 @@ Proyecto personal enfocado en la organización, centralización y análisis de c
 
 ### 📫 Contacto
 *   **LinkedIn:** [linkedin.com/in/sofía-bacher](https://www.linkedin.com/in/sof%C3%ADa-bacher)
-*   **Email:** *[Podés agregar tu correo de contacto acá si querés]*
+*   **Email:** bacher.sofiaet36@gmail.com
